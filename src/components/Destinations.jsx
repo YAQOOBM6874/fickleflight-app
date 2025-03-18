@@ -2,10 +2,10 @@ import React from 'react';
 import styles from './Destinations.module.css';
 
 const destinations = [
-  { name: 'Paris', image: '/public/images/ParisImage.png', price: '$599' },
-  { name: 'Greece', image: '/public/images/GreeceImage.png', price: '$779' },
-  { name: 'Norway', image: '/public/images/NorwayImage.png', price: '$895' },
-  { name: 'Tuscany', image: '/public/images/TuscanyImage.png', price: '$1245' },
+  { name: 'Paris', image: '/images/ParisImage.png', price: '$599' },
+  { name: 'Greece', image: '/images/GreeceImage.png', price: '$779' },
+  { name: 'Norway', image: '/images/NorwayImage.png', price: '$895' },
+  { name: 'Tuscany', image: '/images/TuscanyImage.png', price: '$1245' },
 ];
 
 const Destinations = () => {
