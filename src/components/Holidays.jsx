@@ -3,9 +3,9 @@ import styles from './Holidays.module.css';
 
 const holidays = [
   { name: 'Bali', image: '/images/b.png', price: '$899' }, 
-  { name: 'Switzerland', image: '/public/images/SWITZERLANDimage.png', price: '$900' },
-  { name: 'Boracay', image: '/public/images/BORACAYimage.png', price: '$569' },
-  { name: 'Palawan', image: '/public/images/PALAWANimage.png', price: '$799' },
+  { name: 'Switzerland', image: '/public/images/SwitzerlandImage.png', price: '$900' },
+  { name: 'Boracay', image: '/public/images/BoracayImage.png', price: '$569' },
+  { name: 'Palawan', image: '/public/images/PalawanImage.png', price: '$799' },
 ];
 
 const Holidays = () => {
